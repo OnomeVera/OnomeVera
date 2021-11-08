@@ -1,7 +1,5 @@
  Hi there 👋
-https://OnomeVera.repl.co
-<!--
-**OnomeVera/OnomeVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi I'm Onome Oviero</h1>
 <center>
 
 Hi, I’m Onome and I am presently rounding off a program in Frontend web development(react.js) and Soft skills.
