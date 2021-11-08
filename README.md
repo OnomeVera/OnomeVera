@@ -1,17 +1,27 @@
  Hi there 👋
-<div>
-        <style>
-            h1 {
-    font-size: medium;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 200;
-    background-color: tomato;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1 {
+font-size: medium;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 200;
+background-color: tomato;
 }
 </style>
+</head>
+<body>
+    <div>
     <h1>Hi I'm Onome Oviero</h1>
 
 </div>
-
+</body>
+</html>
 <!--
 **OnomeVera/OnomeVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <center>
