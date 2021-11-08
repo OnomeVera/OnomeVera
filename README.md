@@ -1,5 +1,6 @@
  Hi there 👋
-<h1>Hi I'm Onome Oviero</h1>
+<h1>Hi, 
+ i'm Onome Oviero</h1>
 <center>
 
  I’m rounding off a program in Frontend web development(react.js) and Soft skills.
