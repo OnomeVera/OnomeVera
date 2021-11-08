@@ -1,21 +1,5 @@
  Hi there 👋
->
-    
-</head>
-<body>
-    <div>
-    <h1>Hi I'm Onome Oviero</h1>
-<style>
-        h1 {
-font-size: medium;
-font-family: Georgia, 'Times New Roman', Times, serif;
-font-weight: 200;
-background-color: tomato;
-}
-</style>
-</div>
-</body>
-</html>
+https://OnomeVera.repl.co
 <!--
 **OnomeVera/OnomeVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <center>
