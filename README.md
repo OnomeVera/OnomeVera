@@ -1,5 +1,16 @@
-### Hi there 👋
+ Hi there 👋
+<div>
+        <style>
+            h1 {
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    background-color: tomato;
+}
+</style>
+    <h1>Hi I'm Onome Oviero</h1>
 
+</div>
 
 <!--
 **OnomeVera/OnomeVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
