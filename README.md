@@ -2,20 +2,15 @@
 <h1>Hi I'm Onome Oviero</h1>
 <center>
 
-Hi, I’m Onome and I am presently rounding off a program in Frontend web development(react.js) and Soft skills.
+ I’m rounding off a program in Frontend web development(react.js) and Soft skills.
 My passion is creating responsive and User-friendly Applications(Apps).
 
 I’m currently seeking internship opportunities or full-stack internship opportunities.
 
 I would love to connect with you to find out how to apply and get to the top of your list.
-
-Do I sound like a good fit for your team?
-
 can get in touch with me at onomeoviero@gmail.com
 
 Thanks
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Building a Profile Creator with JavaScript...
 - 🌱 I’m currently learning Frontend Development(React,js)
