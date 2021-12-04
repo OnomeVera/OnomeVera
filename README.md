@@ -3,7 +3,7 @@
  i'm Onome Oviero</h1>
 <center>
 
- I’m a Frontend web development(react.js).
+ I’m a Frontend web developer.
 My passion is creating responsive and User-friendly Applications(Apps).
  I'm a dedicated and creative Frontend developer with  0-2 years experience and background in Mathematics.
  Am Ready to create, develop, test, and maintain software applications. 
@@ -21,7 +21,6 @@ Thanks
 - 📫 How to reach me: email me at onomeoviero@gmail.com
 - <i class="ri-file-list-line"></i>; https://docs.google.com/document/d/1Oh7aaQqKtpa-AIog5-vLhTTf538RWErXNDly-WmEmv4/edit?usp=sharing
 
-- 😄 Know about my experience: ...
 - ⚡ Fun fact: Something i will like to do full time is creating/ developing excellent user friendly apps ...
 -->
 </center>
