@@ -6,7 +6,8 @@
  I’m a Frontend web developer.
 My passion is creating responsive and User-friendly Applications(Apps).
  I'm a dedicated and creative Frontend developer with background in Mathematics.
- Am Ready to create, develop, test, and maintain software applications. 
+ I'm Ready to work with more senior software engineers to develop, test, and maintain software applications. 
+ 
  I look forward to partnership, networking, internship and work opprtunities
  
 Feel free to contact me via email at onomeoviero@gmail.com.
