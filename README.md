@@ -3,7 +3,7 @@
  i'm Onome Oviero</h1>
 <center>
 
- I’m a Frontend web developer. I love creating responsive and User-friendly Applications(Apps). I'm a dedicated and creative Frontend Developer with a background in Mathematics. I'm ready to work with more senior software engineers to develop, test, and maintain software applications.
+ I’m a Frontend web developer and a Cloud Engineer. I love creating responsive and User-friendly Applications(Apps) and deploying Applications to the Cloud. I am dedicated and creative. I'm ready to work with more senior software engineers to develop, test, and maintain software applications.
 
 I look forward to networking and work opportunities.
 
